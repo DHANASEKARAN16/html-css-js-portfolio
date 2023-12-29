@@ -7,8 +7,10 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  
-  
+  background-color:#dcdcdc; 
+  background-image: url("i10.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 
 html {
